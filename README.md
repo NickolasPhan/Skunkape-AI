@@ -1,0 +1,1 @@
+To run this, you need the AIITK plugin. Because they are too large, the Sasquatch, Mediterranean, and SE US Plants plugins/packs are not included in this repository, but are required to run the project. Install these locally on your machine to be able to run this project.
