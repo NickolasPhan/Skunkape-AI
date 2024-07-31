@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Content/Mediterranean_Coast
+/Content/Sasquatch
+/Content/SE_US_Plants_Pack
