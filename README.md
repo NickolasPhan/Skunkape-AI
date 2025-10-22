@@ -6,7 +6,7 @@ How to install the old AIITK plugin:
 4. Copy and paste the compiled AIITK plugin folder "AIIntegrationToolkit" to this directory.
 5. If the project launches but things don't work, try restarting your PC.
 
-Install these plugins inside the Epic Games Launcher and add to the project:
+Install these plugins inside the Epic Games Launcher and add to the project (you may need to open the project once via the .uproject file in order for it to appear inside the Epic Games Launcher):
 1. 35 AR VR Southeastern US Plants and Ecosystems
 2. Mediterranean Coast
 3. Sasquatch
